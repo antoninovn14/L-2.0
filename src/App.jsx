@@ -143,9 +143,9 @@ function App() {
           <hr />
 
           <div className="galeria">
-            <img src="/pedra furada.jpeg" alt="NÓS" />
-            <img src="/o primeiro.jpeg" alt="NÓS" />
-            <img src="/garanhuns .jpeg" alt="NÓS" />
+            <img src="/pedra-furada.jpeg" alt="NÓS" />
+            <img src="/o-primeiro.jpeg" alt="NÓS" />
+            <img src="/garanhuns.jpeg" alt="NÓS" />
           </div>
 
           <hr />
