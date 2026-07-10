@@ -150,7 +150,7 @@ function App() {
 
           <hr />
 
-          <a className="link-musica" href="https://youtube.com" target="_blank" rel="noreferrer">
+          <a className="link-musica" href="https://www.youtube.com/watch?v=v1HDt1tknTc" target="_blank" rel="noreferrer">
             🎵 Uma música para você vc
           </a>
 
